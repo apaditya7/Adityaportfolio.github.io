@@ -9,6 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 title                    : "Aditya Portfolio Website"
+title                    : "Aditya Portfolio Website"
 title_separator          : "-"
 name                     : &name "Aditya Anand Pramod"
 description              : &description "Computer Science penultimate year student at Nanyang Technological University"
