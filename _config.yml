@@ -213,6 +213,11 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+  internships:
+    output: true
+    permalink: /:collection/:path/
+
+
 
 
 # Defaults
