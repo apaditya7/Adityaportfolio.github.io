@@ -2,7 +2,10 @@
 title: "DressSense.AI"
 excerpt: "<br/><img src='images/mobalytics.png'>"
 collection: certifications
----
 Desrciption :
+"""
+DressSenseAI is an app that transforms unused garments into stylish outfits using AI and machine learning, promoting sustainable fashion. Key features include wardrobe transformation, sustainability promotion, and resale assistance. The app converts old clothes into trendy pieces, encourages the use of existing wardrobe items, and helps users resell clothes by providing price suggestions and online marketplace recommendations. This offers a cost-effective alternative to buying new clothes and contributes to reducing textile waste.
 
-Learned to build and train reinforcement learning, supervised learning and unsupervised learning ML models using python. Developed recommender systems, neural networks, anomaly detection models, decision tree models and regression models for regression,clustering and classification tasks using Tensorflow, Scikit- Learn and Pytorch libraries on Python.
+The software used was Python, Javascript and React Native. Python was used for the backend to handle the image processing, image generation and for the marketplace feature which was done by scraping similar items and their details from online marketplaces and displaying them to the user. React Native was used for the front end to develop and deploy the application and the front end and backend were connected through REST APIs. The app also used a firebase database to store the wardbrobe information.
+"""
+---
