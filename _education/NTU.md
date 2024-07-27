@@ -1,6 +1,8 @@
 ---
 title: "Nanyang Technological University"
-degree: "Bachelors of Computing"
+excerpt: "Bachelors of Computing <br/><img src='/images/mobalytics.png'>"
+collection: education
+---
 year: "Year 3"
 GPA: "4.47/5"
 location: "Singapore"
@@ -23,4 +25,3 @@ relevant_modules: |
   - Database System Principles
   - Advanced Software Engineering
   - Multi-Disciplinary Project
----
