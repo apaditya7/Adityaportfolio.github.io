@@ -1,7 +1,7 @@
 ---
 title: "Financial Trading Multi Agent System"
 excerpt: " Built a Multi Agent System using CrewAI to Analyse Stocks and come up with the a trading strategy
- <br/><img src='../images/stockprice.png'>"
+<br/><img src=\"../images/stockprice.png\" style=\"display: block; margin-left: auto; margin-right: auto; width: 50%;\"/>"
 collection: projects
 ---
 Desrciption:

@@ -1,7 +1,7 @@
 ---
 title: "Sentiment Classifer"
 excerpt: " Built a Naive Bayes Classifier Model to classify tweets into their corresponding sentinment
- <br/><img src='../images/sentiment.png'>"
+<br/><img src=\"../images/sentiment.png\" style=\"display: block; margin-left: auto; margin-right: auto; width: 50%;\"/>"
 collection: projects
 ---
 Desrciption:

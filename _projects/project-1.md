@@ -1,6 +1,6 @@
 ---
 title: "DressSense.AI"
-excerpt: "Personal Stylist Application built using Python and Javascript. Includes features such as an outfit rater, outfit generator and a marketplace to look up prices for your old items.  <br/><img src='../images/DressSense.png'>"
+excerpt: "Personal Stylist Application built using Python and Javascript. Includes features such as an outfit rater, outfit generator and a marketplace to look up prices for your old items.  <br/><img src=\"../images/DressSense.png\" style=\"display: block; margin-left: auto; margin-right: auto; width: 50%;\"/>"
 collection: projects
 ---
 Desrciption:

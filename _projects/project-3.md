@@ -2,7 +2,7 @@
 title: "Hospital Website and Database Optimisation"
 excerpt: " Worked with a local children's hospital to help optimise their website and improve efficiency.
 Built an OCR system to scan prescriptions to automate the data entry process.
- <br/><img src='../images/h4c.png'>"
+<br/><img src=\"../images/h4c.png\" style=\"display: block; margin-left: auto; margin-right: auto; width: 50%;\"/>"
 collection: projects
 ---
 Desrciption:

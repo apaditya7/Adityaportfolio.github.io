@@ -1,7 +1,7 @@
 ---
 title: "Tesla Stock Price Predictor"
 excerpt: " A machine learning-powered tool predicting Tesla stock prices using real-time Twitter sentiment analysis.
-<br/><img src='../images/tesla.png'>"
+<br/><img src=\"../images/tesla.png\" style=\"display: block; margin-left: auto; margin-right: auto; width: 50%;\"/>"
 collection: projects
 ---
 Desrciption:

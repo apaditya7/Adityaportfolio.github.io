@@ -1,7 +1,7 @@
 ---
 title: "Event Planning Multi Agent System"
 excerpt: " Built a Multi Agent System using CrewAI to plan the venue and itenary for an event given a set of inputs
- <br/><img src='../images/crewai.png'>"
+<br/><img src=\"../images/crewai.png\" style=\"display: block; margin-left: auto; margin-right: auto; width: 50%;\"/>"
 collection: projects
 ---
 Desrciption:

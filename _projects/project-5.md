@@ -1,7 +1,7 @@
 ---
 title: "Diamond Price Predictor"
 excerpt: " A XGBoost Model built on Hex and Snowpark built to predict diamond prices. Utilised Snowflake as a data warehouse.
- <br/><img src='../images/snowflake.png'>"
+<br/><img src=\"../images/snowflake.png\" style=\"display: block; margin-left: auto; margin-right: auto; width: 50%;\"/>"
 collection: projects
 ---
 Desrciption:
