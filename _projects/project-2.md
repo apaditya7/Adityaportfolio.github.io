@@ -2,7 +2,7 @@
 title: "Bin5.0"
 excerpt: "Built a bin cap that automated recycling, reducing human dependency. 
 The bin was complemented with a website that contained user profiles to keep track of recycling statstistics and educate people on recycling. This project won the second place in the IEE Hackathon  
- <br/><img src='../images/bin5.0.png'>"
+<br/><img src='../images/bin5.0.png'>"
 collection: projects
 ---
 Desrciption:

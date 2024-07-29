@@ -1,7 +1,7 @@
 ---
 title: "Translator System"
 excerpt: " Built a transformer model to server as a translator between English and European languages
-<br/><img src='images/translator.png'>"
+<br/><img src="../images/translator.png" style="display: block; margin-left: auto; margin-right: auto; width: 50%;"/>"
 collection: projects
 ---
 Desrciption:
