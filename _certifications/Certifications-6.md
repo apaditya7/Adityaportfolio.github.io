@@ -4,7 +4,7 @@ excerpt: "Deep Learning AI <br/><img src='images/mobalytics.png'>"
 collection: certifications
 ---
 
-Desrciption :
+## Desrciption :
 
 Gained an understanding into the workings and advantages of Agents, and how to develop agentic interactions and supplement Agents with tools. 
 Built projects with multi agent systems such as a Financial Analysis System, a Event Planning System and a Resume Builder.

@@ -4,7 +4,7 @@ excerpt: "IBM <br/><img src='images/mobalytics.png'>"
 collection: certifications
 ---
 
-Desrciption :
+## Desrciption :
 
 Learned to create and manage relational databases and apply database adminstration concepts using MySQL and PostgreSQL.
 Managed unstructued and Big Data using software such as MongoDB, Hadoop and Spark. Developed and Deployed Machine Learning Models using Python and Spark's freatures. 

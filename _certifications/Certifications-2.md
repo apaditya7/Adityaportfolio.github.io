@@ -4,7 +4,7 @@ excerpt: "Deep Learning AI <br/><img src='images/mobalytics.png'>"
 collection: certifications
 ---
 
-Desrciption :
+## Desrciption :
 
 Learned advanced NLP techniques such as logistic regression,Naive Bayes, RNNs,Embedders,LSTM models and used them to develop projects based on real data. 
 Worked with transformers to build sentence translators, autocorrect machines and build chatbots. 
