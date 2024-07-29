@@ -1,6 +1,6 @@
 ---
 title: "Machine Learning Specialisation"
-excerpt: "Deep Learning AI <br/><img src='images/mobalytics.png'>"
+excerpt: Deep Learning AI <br/><img src='mobalytics.png'>
 collection: certifications
 ---
 
