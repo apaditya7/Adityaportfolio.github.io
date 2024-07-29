@@ -1,6 +1,6 @@
 ---
 title: " Data Analytics Professional Certificate"
-excerpt: "Google <br/><img src='../images/google.jpeg'>"
+excerpt: "Google <br/><img src=\"../images/google.jpeg\" style=\"display: block; margin-left: auto; margin-right: auto; width: 50%;\"/>"
 collection: certifications
 ---
 

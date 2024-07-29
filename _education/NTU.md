@@ -1,6 +1,6 @@
 ---
 title: "Nanyang Technological University"
-excerpt: "Bachelors of Computing <br/><img src='../images/NTU.jpg'>"
+excerpt: "Bachelors of Computing <br/><img src=\"../images/NTU.jpg\" style=\"display: block; margin-left: auto; margin-right: auto; width: 50%;\"/>"
 collection: education
 ---
 

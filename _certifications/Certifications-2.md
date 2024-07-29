@@ -1,6 +1,6 @@
 ---
 title: "Natural Language Processing Specialisation"
-excerpt: "Deep Learning AI <br/><img src='../images/DL.png'>"
+excerpt: "Deep Learning AI <br/><img src=\"../images/DL.png\" style=\"display: block; margin-left: auto; margin-right: auto; width: 50%;\"/>"
 collection: certifications
 ---
 

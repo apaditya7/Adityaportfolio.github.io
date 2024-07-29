@@ -1,6 +1,6 @@
 ---
 title: "AI Shophouse Internship "
-excerpt: "Data Science Intern  <br/><img src='../images/aishop.png'>"
+excerpt: "Data Science Intern  <br/><img src=\"../images/aishop.png\" style=\"display: block; margin-left: auto; margin-right: auto; width: 50%;\"/>"
 collection: internship
 ---
 

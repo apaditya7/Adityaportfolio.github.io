@@ -1,6 +1,6 @@
 ---
 title: "Data Science Professional Certificate"
-excerpt: "IBM <br/><img src='../images/IBM.png'>"
+excerpt: "IBM <br/><img src=\"../images/IBM.png\" style=\"display: block; margin-left: auto; margin-right: auto; width: 50%;\"/>"
 collection: certifications
 ---
 
