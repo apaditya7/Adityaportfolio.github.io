@@ -1,6 +1,6 @@
 ---
 title: "Vidya Mandir Senior Secondary School"
-excerpt: "High School <br/><img src='VidyaMandir.jpg'>"
+excerpt: "High School <br/><img src='../images/VidyaMandir.jpg'>"
 collection: education
 ---
 ## Vidya Mandir Senior Secondary School
