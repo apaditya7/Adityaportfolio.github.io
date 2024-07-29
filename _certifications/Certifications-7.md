@@ -1,6 +1,6 @@
 ---
 title: "Langchain Chat With Your Data"
-excerpt: "Deep Learning AI <br/><img src='images/mobalytics.png'>"
+excerpt: "Deep Learning AI <br/><img src='../images/DL.png'>"
 collection: certifications
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Nanyang Technological University"
-excerpt: "Bachelors of Computing <br/><img src='/images/NTU.jpg'>"
+excerpt: "Bachelors of Computing <br/><img src='../images/NTU.jpg'>"
 collection: education
 ---
 
@@ -31,5 +31,3 @@ collection: education
 - Database System Principles
 - Advanced Software Engineering
 - Multi-Disciplinary Project
-
-<img src="/images/NTU.jpg" alt="NTU Logo" style="max-width: 100%;">

@@ -1,6 +1,6 @@
 ---
 title: "Everstone Capital Internship "
-excerpt: "Data Science Intern <br/><img src='images/mobalytics.png'>"
+excerpt: "Data Science Intern  <br/><img src='../images/Everstone.png'>"
 collection: internship
 ---
 

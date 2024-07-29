@@ -6,7 +6,9 @@ collection: education
 ## Vidya Mandir Senior Secondary School
 
 **Degree**: High School CBSE
+
 **GPA**: 97%
+
 **Location**: Singapore
 
 ### Achievement

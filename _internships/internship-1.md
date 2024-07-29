@@ -1,6 +1,6 @@
 ---
 title: "Mobalytics Gaming Internship "
-excerpt: "Data Analyst Intern <br/><img src='/images/mobalytics.png'>"
+excerpt: "Data Analyst Intern <br/><img src='../images/mobalytics.png'>"
 collection: internship
 ---
 

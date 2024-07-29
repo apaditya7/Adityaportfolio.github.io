@@ -1,6 +1,6 @@
 ---
 title: "Oriental Aviation International Internship "
-excerpt: "Data Engineer Intern <br/><img src='images/mobalytics.png'>"
+excerpt: "Data Engineer Intern  <br/><img src='../images/oai.png'>"
 collection: internship
 ---
 
