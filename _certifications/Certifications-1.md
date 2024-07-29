@@ -11,4 +11,4 @@ Learned to build and train reinforcement learning, supervised learning, and unsu
 Developed recommender systems, neural networks, anomaly detection models, decision tree models, and regression models for regression, clustering, and classification tasks using TensorFlow, Scikit-Learn, and PyTorch libraries in Python.
 
 
-![Alt text](../images/foo-bar-identity-th.jpg)
+![Text1](../images/foo-bar-identity-th.jpg)
