@@ -9,4 +9,4 @@ collection: certifications
 Learned to build and train reinforcement learning, supervised learning, and unsupervised learning ML models using Python. 
 Developed recommender systems, neural networks, anomaly detection models, decision tree models, and regression models for regression, clustering, and classification tasks using TensorFlow, Scikit-Learn, and PyTorch libraries in Python.
 
-![Alt text](mobalytics.png)
+![Alt text](mobalytics.png?raw=true)
