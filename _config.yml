@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "500x300.png"
+  avatar           : "Profile_pic.jpeg"
   name             : "Aditya Anand Pramod"
   pronouns         : # example: "she/her"  
   bio              : "A junior at Nanyang Technological University studying computer science"
